@@ -1,0 +1,2 @@
+# Radio-Controlled-Quadcopter
+A quadcopter is a four rotor unmanned aerial drone that operates with the same principle as of a helicopter with slight differences lying within both. It is used for several purposes in the military as well as social fields operating over a wide range of applications. It has become a craze for building a quadcopter among people as it gives a wide variety of benefits as compared to the traditional helicopter such as stability and control. Till date quadcopter has only been used as a drone that is controlled from a distant place.
