@@ -1,0 +1,17 @@
+[package]
+name = "icaros-base"
+version = "0.1.0"
+authors = ["Ignacio <nnubes256@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+bincode2 = "2.0"
+err-derive = "0.2"
+log = "0.4"
+nmea = "0.0.8"
+
+[target.armv7-unknown-linux-gnueabihf.dependencies]
+rf24 = { path = "../rf24" }
